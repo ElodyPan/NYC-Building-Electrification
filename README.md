@@ -36,4 +36,4 @@ Run the `script-final.R` in RStudio. Ensure that all data files are located in y
 
 ## Questions about the data or analysis?
 
-Feel Free to contact at yp2563@gmail.com
+Feel Free to contact at yp2563@nyu.edu
